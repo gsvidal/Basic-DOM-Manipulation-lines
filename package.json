@@ -1,0 +1,14 @@
+{
+  "name": "dom-manipulation",
+  "version": "1.0.0",
+  "description": "basic lines to DOM manipulation",
+  "main": "dom-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DOM"
+  ],
+  "author": "Gonzalo Vidal",
+  "license": "ISC"
+}
